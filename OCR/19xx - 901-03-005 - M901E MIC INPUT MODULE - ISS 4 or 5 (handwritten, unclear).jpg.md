@@ -32,7 +32,7 @@ Wiki page: [M901B](../../../../PAGES/M901B.md)
 - **Words (OCR):** 133 in 122 lines: 8 3 3 · to 0.250 Dia · -32 UNC · C'SK · 2 REQ'D · 0.100 DIA-c'SK · TO 0.180,DIA · REQ'D · DATUM · 0.200 · W9018 · Hadib
 - **Title block:** (676, 22)–(864, 281) mm: DETAIL · (SCALE 41) · MATERIAL: · ALUM ALLOY 0.125 THICK · FINISH: · TEXTURED BEIGE (452C) · SAND 120 CRIT · AND PAINT · TEXCOTE VINYL_ · (EXTRA · FINE  TEXTURE) · NOTE- · 2. TOLERANCES: Ma · REMOVE A
 
-Every curve, box, word and wire group: [19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear) (traced).json](../MECHANICAL/19xx%20-%20901-03-005%20-%20M901E%20MIC%20INPUT%20MODULE%20-%20ISS%204%20or%205%20(handwritten%2C%20unclear)%20(traced).json) (the CAD file: `19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear) (traced).json](../MECHANICAL/19xx%20-%20901-03-005%20-%20M901E%20MIC%20INPUT%20MODULE%20-%20ISS%204%20or%205%20%28handwritten%2C%20unclear%29%20%28traced%29.json) (the CAD file: `19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear) (traced).dxf`).
 
 ## Full text
 
