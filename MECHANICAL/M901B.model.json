@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M901B",
- "repo": "MODULES.UNSORTED.M901B-Mic-Input-Module",
+ "repo": "MODULES.RENAISSANCE.M901B-Mic-Input-Module",
  "title": "Mic Input Module",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
