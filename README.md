@@ -78,6 +78,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear).jpg`
 
+## 3-D model
+
+[`MECHANICAL/M901B.stl`](MECHANICAL/M901B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M901B)
+
+- **Size:** 38 × 410 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 16.2" high x 6.6" deep. (38 mm x 410 mm x 168 mm).)
+- **From the drawing:** 22 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M901B - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M901B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
