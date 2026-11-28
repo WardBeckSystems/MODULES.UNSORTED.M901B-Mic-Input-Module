@@ -1,6 +1,6 @@
 # M901B Mic Input Module · Renaissance
 
-Ward-Beck Systems M901B, 1994|27. Wiki page: [M901B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M901B.html)
+Ward-Beck Systems M901B, 1994|27. Wiki page: [M901B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901B-Mic-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

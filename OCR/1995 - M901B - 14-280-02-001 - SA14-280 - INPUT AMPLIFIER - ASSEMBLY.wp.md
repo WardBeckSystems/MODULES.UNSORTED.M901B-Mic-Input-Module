@@ -1,5 +1,5 @@
 # 1995 - M901B - 14-280-02-001 - SA14-280 - INPUT AMPLIFIER - ASSEMBLY.wp
-Wiki page: [M901B](../../../../PAGES/M901B.md)
+Wiki page: [M901B](../)
 
 
 - **Year:** 1995 (found in this file: "Issue #4 September 21, 1995")

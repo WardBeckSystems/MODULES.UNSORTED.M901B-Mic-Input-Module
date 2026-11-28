@@ -1,5 +1,5 @@
 # 19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear).jpg
-Wiki page: [M901B](../../../../PAGES/M901B.md)
+Wiki page: [M901B](../)
 
 
 - **Year:** unknown (title block (read by eye))
